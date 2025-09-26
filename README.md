@@ -1,0 +1,2 @@
+# InventoSync
+Inventory Management Dashboard
