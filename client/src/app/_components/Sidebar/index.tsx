@@ -91,7 +91,7 @@ const Sidebar = () => {
         <h1
           className={`${
             isSidebarCollapsed ? "hidden" : "block"
-          } font-extrabold text-2xl`}
+          } font-extrabold text-xl`}
         >
           INVENTOSYNC
         </h1>
