@@ -3,7 +3,7 @@ import { ShoppingBag } from "lucide-react";
 import React from "react";
 
 import Image from "next/image";
-import Rating from "../(components)/Rating";
+import Rating from "../_components/Rating";
 
 const CardPopularProducts = () => {
   const { data: dashboardMetrics, isLoading } = useGetDashboardMetricsQuery();
